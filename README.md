@@ -26,8 +26,8 @@ A Java-based simulation where you're the GM of your own NBA team, drafting playe
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/dylannan52/nba-season-simulator.git
-   cd nba-season-simulator
+   git clone https://github.com/dylannan52/nba-gm-simulator.git
+   cd nba-gm-simulator
    
 2. Compile and run!
   javac Main.java
